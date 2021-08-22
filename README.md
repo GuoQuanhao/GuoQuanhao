@@ -16,6 +16,9 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
+[![GuoQuanhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoQuanhao&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoQuanhao&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
 ### DeepLearning Framworks tutorial
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuoQuanhao&repo=PaddlePaddle-basic-tutorial)](https://github.com/GuoQuanhao/PaddlePaddle-basic-tutorial) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuoQuanhao&repo=pytorch-basic-tutorial)](https://github.com/GuoQuanhao/pytorch-basic-tutorial)
 
@@ -30,16 +33,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuoQuanhao&repo=SupContrast-Paddle)](https://github.com/GuoQuanhao/SupContrast-Paddle)
 
 **Many works are in progress**
-
-
-
-
-
-[![GuoQuanhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoQuanhao&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoQuanhao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
